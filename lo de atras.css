@@ -1,0 +1,10 @@
+#rojo{height: 900px;width: 900px; 
+    background-color: rgba(208, 179, 179, 0.891);
+    font-size: 32px;
+    border: 15px solid rgb(108, 180, 225);
+    padding:40px ;
+    margin:50px ;
+    color: rgba(15, 61, 188, 0.876);
+    text-align:left ;
+    
+}
